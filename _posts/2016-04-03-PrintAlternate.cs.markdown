@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "[FILE]"
+title:  "Linkdlist: Print alternate node"
 date:   2016-04-03 19:59:20 +0530
 categories: Sorting
 ---
+
+In this post I will show you how to print alternamte node in c#
 
 {% highlight csharp %}
 
