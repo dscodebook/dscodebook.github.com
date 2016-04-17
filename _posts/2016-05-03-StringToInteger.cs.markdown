@@ -4,6 +4,7 @@ title:  "StringToInteger.cs"
 date:   2016-04-03 19:59:20 +0530
 categories: Sorting
 ---
+How to parse a string to an integer without using library functions
 
 {% highlight csharp %}
 
