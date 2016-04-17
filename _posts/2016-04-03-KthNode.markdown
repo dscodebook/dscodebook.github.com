@@ -4,6 +4,7 @@ title:  "Linkedlist:: Find kt node from end"
 date:   2016-04-03 19:59:20 +0530
 categories: Sorting
 ---
+###Given a Linked List and a number n, write a function that returns the value at the n’th node from end of the Linked List.
 
 {% highlight csharp %}
 
