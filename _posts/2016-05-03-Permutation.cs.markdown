@@ -4,9 +4,10 @@ title:  "Permutation.cs"
 date:   2016-04-03 19:59:20 +0530
 categories: Sorting
 ---
+Write a program to print all permutations of a given string
 
 {% highlight csharp %}
-<Query Kind="Program" />
+
 
 void Main()
 {
